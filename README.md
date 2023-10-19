@@ -11,4 +11,7 @@ British Airways (BA) is the flag carrier airline of the United Kingdom (UK). Eve
 
 ![Bwordcloud](https://github.com/ruggedx220/British-Airways-Customer-Reviews-Project/blob/main/Screenshot%202023-10-12%20231201.png) 
 
+# Prediction Model
+The customer Booking data was trained on a RandomForest in order to predict if a customer will book a flight with the airway. The performance of the model was evaluated by implementing Cross-validation and the appropriate evaluation metrics.
+
 
