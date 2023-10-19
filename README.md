@@ -9,3 +9,6 @@ British Airways (BA) is the flag carrier airline of the United Kingdom (UK). Eve
 3. Manipulate and prepare the provided customer booking data to build a high-quality predictive model.
 4. Train a machine learning model to be able to predict the target outcome, which is a customer making a booking with the airway.
 
+![Bwordcloud](https://github.com/ruggedx220/British-Airways-Customer-Reviews-Project/blob/main/Screenshot%202023-10-12%20231201.png) 
+
+
